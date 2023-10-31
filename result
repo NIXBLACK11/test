@@ -1,0 +1,168 @@
+Failed to validate the following language models:
+Language: kashmiri, Error: unhashable type: 'list'
+Language: kas, Error: unhashable type: 'list'
+Language: central kanuri, Error: unhashable type: 'list'
+Language: knc, Error: unhashable type: 'list'
+Language: ace_Arab, Error: language name: ace_Arab not found in language list. Specify a supported language name
+Language: mesopotamian arabic, Error: language name: mesopotamian arabic not found in language list. Specify a supported language name
+Language: acm, Error: language name: acm not found in language list. Specify a supported language name
+Language: acm_Arab, Error: language name: acm_Arab not found in language list. Specify a supported language name
+Language: ta’izzi-adeni arabic, Error: language name: ta’izzi-adeni arabic not found in language list. Specify a supported language name
+Language: acq, Error: language name: acq not found in language list. Specify a supported language name
+Language: acq_Arab, Error: language name: acq_Arab not found in language list. Specify a supported language name
+Language: tunisian arabic, Error: language name: tunisian arabic not found in language list. Specify a supported language name
+Language: aeb, Error: language name: aeb not found in language list. Specify a supported language name
+Language: aeb_Arab, Error: language name: aeb_Arab not found in language list. Specify a supported language name
+Language: afrikaans, Error: language name: afrikaans not found in language list. Specify a supported language name
+Language: afr, Error: language name: afr not found in language list. Specify a supported language name
+Language: afr_Latn, Error: language name: afr_Latn not found in language list. Specify a supported language name
+Language: south levantine arabic, Error: language name: south levantine arabic not found in language list. Specify a supported language name
+Language: ajp, Error: language name: ajp not found in language list. Specify a supported language name
+Language: ajp_Arab, Error: language name: ajp_Arab not found in language list. Specify a supported language name
+Language: north levantine arabic, Error: language name: north levantine arabic not found in language list. Specify a supported language name
+Language: apc, Error: language name: apc not found in language list. Specify a supported language name
+Language: apc_Arab, Error: language name: apc_Arab not found in language list. Specify a supported language name
+Language: modern standard arabic, Error: language name: modern standard arabic not found in language list. Specify a supported language name
+Language: arb, Error: language name: arb not found in language list. Specify a supported language name
+Language: arb_Arab, Error: language name: arb_Arab not found in language list. Specify a supported language name
+Language: arb_Latn, Error: language name: arb_Latn not found in language list. Specify a supported language name
+Language: najdi arabic, Error: language name: najdi arabic not found in language list. Specify a supported language name
+Language: ars, Error: language name: ars not found in language list. Specify a supported language name
+Language: ars_Arab, Error: language name: ars_Arab not found in language list. Specify a supported language name
+Language: moroccan arabic, Error: language name: moroccan arabic not found in language list. Specify a supported language name
+Language: ary, Error: language name: ary not found in language list. Specify a supported language name
+Language: ary_Arab, Error: language name: ary_Arab not found in language list. Specify a supported language name
+Language: egyptian arabic, Error: language name: egyptian arabic not found in language list. Specify a supported language name
+Language: arz, Error: language name: arz not found in language list. Specify a supported language name
+Language: arz_Arab, Error: language name: arz_Arab not found in language list. Specify a supported language name
+Language: asturian, Error: language name: asturian not found in language list. Specify a supported language name
+Language: ast, Error: language name: ast not found in language list. Specify a supported language name
+Language: ast_Latn, Error: language name: ast_Latn not found in language list. Specify a supported language name
+Language: bjn_Arab, Error: language name: bjn_Arab not found in language list. Specify a supported language name
+Language: bosnian, Error: language name: bosnian not found in language list. Specify a supported language name
+Language: bos, Error: language name: bos not found in language list. Specify a supported language name
+Language: bos_Latn, Error: language name: bos_Latn not found in language list. Specify a supported language name
+Language: bulgarian, Error: language name: bulgarian not found in language list. Specify a supported language name
+Language: bul, Error: language name: bul not found in language list. Specify a supported language name
+Language: bul_Cyrl, Error: language name: bul_Cyrl not found in language list. Specify a supported language name
+Language: catalan, Error: language name: catalan not found in language list. Specify a supported language name
+Language: cat, Error: language name: cat not found in language list. Specify a supported language name
+Language: cat_Latn, Error: language name: cat_Latn not found in language list. Specify a supported language name
+Language: czech, Error: language name: czech not found in language list. Specify a supported language name
+Language: ces, Error: language name: ces not found in language list. Specify a supported language name
+Language: ces_Latn, Error: language name: ces_Latn not found in language list. Specify a supported language name
+Language: danish, Error: language name: danish not found in language list. Specify a supported language name
+Language: dan, Error: language name: dan not found in language list. Specify a supported language name
+Language: dan_Latn, Error: language name: dan_Latn not found in language list. Specify a supported language name
+Language: german, Error: language name: german not found in language list. Specify a supported language name
+Language: deu, Error: language name: deu not found in language list. Specify a supported language name
+Language: deu_Latn, Error: language name: deu_Latn not found in language list. Specify a supported language name
+Language: greek, Error: language name: greek not found in language list. Specify a supported language name
+Language: ell, Error: language name: ell not found in language list. Specify a supported language name
+Language: ell_Grek, Error: language name: ell_Grek not found in language list. Specify a supported language name
+Language: english, Error: language name: english not found in language list. Specify a supported language name
+Language: eng, Error: language name: eng not found in language list. Specify a supported language name
+Language: eng_Latn, Error: language name: eng_Latn not found in language list. Specify a supported language name
+Language: esperanto, Error: language name: esperanto not found in language list. Specify a supported language name
+Language: epo, Error: language name: epo not found in language list. Specify a supported language name
+Language: epo_Latn, Error: language name: epo_Latn not found in language list. Specify a supported language name
+Language: estonian, Error: language name: estonian not found in language list. Specify a supported language name
+Language: est, Error: language name: est not found in language list. Specify a supported language name
+Language: est_Latn, Error: language name: est_Latn not found in language list. Specify a supported language name
+Language: basque, Error: language name: basque not found in language list. Specify a supported language name
+Language: eus, Error: language name: eus not found in language list. Specify a supported language name
+Language: eus_Latn, Error: language name: eus_Latn not found in language list. Specify a supported language name
+Language: finnish, Error: language name: finnish not found in language list. Specify a supported language name
+Language: fin, Error: language name: fin not found in language list. Specify a supported language name
+Language: fin_Latn, Error: language name: fin_Latn not found in language list. Specify a supported language name
+Language: french, Error: language name: french not found in language list. Specify a supported language name
+Language: fra, Error: language name: fra not found in language list. Specify a supported language name
+Language: fra_Latn, Error: language name: fra_Latn not found in language list. Specify a supported language name
+Language: galician, Error: language name: galician not found in language list. Specify a supported language name
+Language: glg, Error: language name: glg not found in language list. Specify a supported language name
+Language: glg_Latn, Error: language name: glg_Latn not found in language list. Specify a supported language name
+Language: hebrew, Error: language name: hebrew not found in language list. Specify a supported language name
+Language: heb, Error: language name: heb not found in language list. Specify a supported language name
+Language: heb_Hebr, Error: language name: heb_Hebr not found in language list. Specify a supported language name
+Language: croatian, Error: language name: croatian not found in language list. Specify a supported language name
+Language: hrv, Error: language name: hrv not found in language list. Specify a supported language name
+Language: hrv_Latn, Error: language name: hrv_Latn not found in language list. Specify a supported language name
+Language: hungarian, Error: language name: hungarian not found in language list. Specify a supported language name
+Language: hun, Error: language name: hun not found in language list. Specify a supported language name
+Language: hun_Latn, Error: language name: hun_Latn not found in language list. Specify a supported language name
+Language: icelandic, Error: language name: icelandic not found in language list. Specify a supported language name
+Language: isl, Error: language name: isl not found in language list. Specify a supported language name
+Language: isl_Latn, Error: language name: isl_Latn not found in language list. Specify a supported language name
+Language: italian, Error: language name: italian not found in language list. Specify a supported language name
+Language: ita, Error: language name: ita not found in language list. Specify a supported language name
+Language: ita_Latn, Error: language name: ita_Latn not found in language list. Specify a supported language name
+Language: japanese, Error: language name: japanese not found in language list. Specify a supported language name
+Language: jpn, Error: language name: jpn not found in language list. Specify a supported language name
+Language: jpn_Jpan, Error: language name: jpn_Jpan not found in language list. Specify a supported language name
+Language: korean, Error: language name: korean not found in language list. Specify a supported language name
+Language: kor, Error: language name: kor not found in language list. Specify a supported language name
+Language: kor_Hang, Error: language name: kor_Hang not found in language list. Specify a supported language name
+Language: lithuanian, Error: language name: lithuanian not found in language list. Specify a supported language name
+Language: lit, Error: language name: lit not found in language list. Specify a supported language name
+Language: lit_Latn, Error: language name: lit_Latn not found in language list. Specify a supported language name
+Language: standard latvian, Error: language name: standard latvian not found in language list. Specify a supported language name
+Language: lvs, Error: language name: lvs not found in language list. Specify a supported language name
+Language: lvs_Latn, Error: language name: lvs_Latn not found in language list. Specify a supported language name
+Language: min_Arab, Error: language name: min_Arab not found in language list. Specify a supported language name
+Language: macedonian, Error: language name: macedonian not found in language list. Specify a supported language name
+Language: mkd, Error: language name: mkd not found in language list. Specify a supported language name
+Language: mkd_Cyrl, Error: language name: mkd_Cyrl not found in language list. Specify a supported language name
+Language: dutch, Error: language name: dutch not found in language list. Specify a supported language name
+Language: nld, Error: language name: nld not found in language list. Specify a supported language name
+Language: nld_Latn, Error: language name: nld_Latn not found in language list. Specify a supported language name
+Language: norwegian nynorsk, Error: language name: norwegian nynorsk not found in language list. Specify a supported language name
+Language: nno, Error: language name: nno not found in language list. Specify a supported language name
+Language: nno_Latn, Error: language name: nno_Latn not found in language list. Specify a supported language name
+Language: norwegian bokmål, Error: language name: norwegian bokmål not found in language list. Specify a supported language name
+Language: nob, Error: language name: nob not found in language list. Specify a supported language name
+Language: nob_Latn, Error: language name: nob_Latn not found in language list. Specify a supported language name
+Language: occitan, Error: language name: occitan not found in language list. Specify a supported language name
+Language: oci, Error: language name: oci not found in language list. Specify a supported language name
+Language: oci_Latn, Error: language name: oci_Latn not found in language list. Specify a supported language name
+Language: polish, Error: language name: polish not found in language list. Specify a supported language name
+Language: pol, Error: language name: pol not found in language list. Specify a supported language name
+Language: pol_Latn, Error: language name: pol_Latn not found in language list. Specify a supported language name
+Language: portuguese, Error: language name: portuguese not found in language list. Specify a supported language name
+Language: por, Error: language name: por not found in language list. Specify a supported language name
+Language: por_Latn, Error: language name: por_Latn not found in language list. Specify a supported language name
+Language: romanian, Error: language name: romanian not found in language list. Specify a supported language name
+Language: ron, Error: language name: ron not found in language list. Specify a supported language name
+Language: ron_Latn, Error: language name: ron_Latn not found in language list. Specify a supported language name
+Language: russian, Error: language name: russian not found in language list. Specify a supported language name
+Language: rus, Error: language name: rus not found in language list. Specify a supported language name
+Language: rus_Cyrl, Error: language name: rus_Cyrl not found in language list. Specify a supported language name
+Language: sat_Olck, Error: language name: sat_Olck not found in language list. Specify a supported language name
+Language: slovak, Error: language name: slovak not found in language list. Specify a supported language name
+Language: slk, Error: language name: slk not found in language list. Specify a supported language name
+Language: slk_Latn, Error: language name: slk_Latn not found in language list. Specify a supported language name
+Language: slovenian, Error: language name: slovenian not found in language list. Specify a supported language name
+Language: slv, Error: language name: slv not found in language list. Specify a supported language name
+Language: slv_Latn, Error: language name: slv_Latn not found in language list. Specify a supported language name
+Language: spanish, Error: language name: spanish not found in language list. Specify a supported language name
+Language: spa, Error: language name: spa not found in language list. Specify a supported language name
+Language: spa_Latn, Error: language name: spa_Latn not found in language list. Specify a supported language name
+Language: serbian, Error: language name: serbian not found in language list. Specify a supported language name
+Language: srp, Error: language name: srp not found in language list. Specify a supported language name
+Language: srp_Cyrl, Error: language name: srp_Cyrl not found in language list. Specify a supported language name
+Language: swedish, Error: language name: swedish not found in language list. Specify a supported language name
+Language: swe, Error: language name: swe not found in language list. Specify a supported language name
+Language: swe_Latn, Error: language name: swe_Latn not found in language list. Specify a supported language name
+Language: taq_Tfng, Error: language name: taq_Tfng not found in language list. Specify a supported language name
+Language: ukrainian, Error: language name: ukrainian not found in language list. Specify a supported language name
+Language: ukr, Error: language name: ukr not found in language list. Specify a supported language name
+Language: ukr_Cyrl, Error: language name: ukr_Cyrl not found in language list. Specify a supported language name
+Language: vietnamese, Error: language name: vietnamese not found in language list. Specify a supported language name
+Language: vie, Error: language name: vie not found in language list. Specify a supported language name
+Language: vie_Latn, Error: language name: vie_Latn not found in language list. Specify a supported language name
+Language: yue chinese, Error: language name: yue chinese not found in language list. Specify a supported language name
+Language: yue, Error: language name: yue not found in language list. Specify a supported language name
+Language: yue_Hant, Error: language name: yue_Hant not found in language list. Specify a supported language name
+Language: chinese, Error: language name: chinese not found in language list. Specify a supported language name
+Language: zho, Error: language name: zho not found in language list. Specify a supported language name
+Language: zho_Hans, Error: language name: zho_Hans not found in language list. Specify a supported language name
+Language: zho_Hant, Error: language name: zho_Hant not found in language list. Specify a supported language name
