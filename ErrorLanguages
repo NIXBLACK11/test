@@ -1,2 +1,9 @@
+LASER3
+
+FAILED LASER/laser_encoders/validate.py::test_validate_language_models_and_tokenize_laser3[kashmiri]
+FAILED LASER/laser_encoders/validate.py::test_validate_language_models_and_tokenize_laser3[kas]
 FAILED LASER/laser_encoders/validate.py::test_validate_language_models_and_tokenize_laser3[central kanuri]
 FAILED LASER/laser_encoders/validate.py::test_validate_language_models_and_tokenize_laser3[knc]
+
+LASER2
+
