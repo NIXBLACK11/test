@@ -1,0 +1,1385 @@
+======================================= test session starts ========================================
+platform linux -- Python 3.10.12, pytest-7.4.0, pluggy-1.3.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /content/LASER-fork
+configfile: pyproject.toml
+plugins: hydra-core-1.0.7, anyio-3.7.1
+collecting ... collected 591 items
+
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[acehnese] PASSED [  0%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ace] PASSED [  0%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ace_Arab] PASSED [  0%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ace_Latn] PASSED [  0%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mesopotamian arabic] PASSED [  0%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[acm] PASSED [  1%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[acm_Arab] PASSED [  1%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ta\u2019izzi-adeni arabic] PASSED [  1%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[acq] PASSED [  1%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[acq_Arab] PASSED [  1%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tunisian arabic] PASSED [  1%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[aeb] PASSED [  2%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[aeb_Arab] PASSED [  2%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[afrikaans] PASSED [  2%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[afr] PASSED [  2%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[afr_Latn] PASSED [  2%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[south levantine arabic] PASSED [  2%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ajp] PASSED [  3%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ajp_Arab] PASSED [  3%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[akan] PASSED [  3%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[aka] PASSED [  3%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[aka_Latn] PASSED [  3%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[amharic] PASSED [  3%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[amh] PASSED [  4%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[amh_Ethi] PASSED [  4%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[north levantine arabic] PASSED [  4%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[apc] PASSED [  4%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[apc_Arab] PASSED [  4%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[modern standard arabic] PASSED [  4%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[arb] PASSED [  5%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[arb_Arab] PASSED [  5%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[arb_Latn] PASSED [  5%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[najdi arabic] PASSED [  5%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ars] PASSED [  5%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ars_Arab] PASSED [  5%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[moroccan arabic] PASSED [  6%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ary] PASSED [  6%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ary_Arab] PASSED [  6%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[egyptian arabic] PASSED [  6%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[arz] PASSED [  6%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[arz_Arab] PASSED [  6%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[assamese] PASSED [  7%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[asm] PASSED [  7%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[asm_Beng] PASSED [  7%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[asturian] PASSED [  7%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ast] PASSED [  7%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ast_Latn] PASSED [  7%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[awadhi] PASSED [  8%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[awa] PASSED [  8%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[awa_Deva] PASSED [  8%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[central aymara] PASSED [  8%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ayr] PASSED [  8%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ayr_Latn] PASSED [  8%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[south azerbaijani] PASSED [  9%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[azb] PASSED [  9%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[azb_Arab] PASSED [  9%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[north azerbaijani] PASSED [  9%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[azj] PASSED [  9%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[azj_Latn] PASSED [  9%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bashkir] PASSED [ 10%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bak] PASSED [ 10%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bak_Cyrl] PASSED [ 10%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bambara] PASSED [ 10%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bam] PASSED [ 10%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bam_Latn] PASSED [ 10%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[balinese] PASSED [ 11%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ban] PASSED [ 11%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ban_Latn] PASSED [ 11%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[belarusian] PASSED [ 11%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bel] PASSED [ 11%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bel_Cyrl] PASSED [ 12%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bemba] PASSED [ 12%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bem] PASSED [ 12%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bem_Latn] PASSED [ 12%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bengali] PASSED [ 12%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ben] PASSED [ 12%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ben_Beng] PASSED [ 13%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bhojpuri] PASSED [ 13%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bho] PASSED [ 13%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bho_Deva] PASSED [ 13%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[banjar] PASSED [ 13%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bjn] PASSED [ 13%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bjn_Arab] PASSED [ 14%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bjn_Latn] PASSED [ 14%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[standard tibetan] PASSED [ 14%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bod] PASSED [ 14%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bod_Tibt] PASSED [ 14%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bosnian] PASSED [ 14%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bos] PASSED [ 15%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bos_Latn] PASSED [ 15%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[buginese] PASSED [ 15%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bug] PASSED [ 15%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bug_Latn] PASSED [ 15%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bulgarian] PASSED [ 15%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bul] PASSED [ 16%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[bul_Cyrl] PASSED [ 16%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[catalan] PASSED [ 16%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[cat] PASSED [ 16%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[cat_Latn] PASSED [ 16%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[cebuano] PASSED [ 16%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ceb] PASSED [ 17%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ceb_Latn] PASSED [ 17%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[czech] PASSED [ 17%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ces] PASSED [ 17%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ces_Latn] PASSED [ 17%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[chokwe] PASSED [ 17%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[cjk] PASSED [ 18%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[cjk_Latn] PASSED [ 18%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[central kurdish] PASSED [ 18%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ckb] PASSED [ 18%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ckb_Arab] PASSED [ 18%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[crimean tatar] PASSED [ 18%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[crh] PASSED [ 19%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[crh_Latn] PASSED [ 19%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[welsh] PASSED [ 19%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[cym] PASSED [ 19%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[cym_Latn] PASSED [ 19%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[danish] PASSED [ 19%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dan] PASSED [ 20%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dan_Latn] PASSED [ 20%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[german] PASSED [ 20%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[deu] PASSED [ 20%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[deu_Latn] PASSED [ 20%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[southwestern dinka] PASSED [ 20%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dik] PASSED [ 21%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dik_Latn] PASSED [ 21%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dyula] PASSED [ 21%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dyu] PASSED [ 21%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dyu_Latn] PASSED [ 21%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dzongkha] PASSED [ 21%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dzo] PASSED [ 22%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dzo_Tibt] PASSED [ 22%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[greek] PASSED [ 22%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ell] PASSED [ 22%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ell_Grek] PASSED [ 22%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[english] PASSED [ 23%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[eng] PASSED [ 23%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[eng_Latn] PASSED [ 23%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[esperanto] PASSED [ 23%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[epo] PASSED [ 23%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[epo_Latn] PASSED [ 23%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[estonian] PASSED [ 24%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[est] PASSED [ 24%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[est_Latn] PASSED [ 24%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[basque] PASSED [ 24%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[eus] PASSED [ 24%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[eus_Latn] PASSED [ 24%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ewe] PASSED [ 25%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ewe_Latn] PASSED [ 25%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[faroese] PASSED [ 25%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fao] PASSED [ 25%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fao_Latn] PASSED [ 25%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fijian] PASSED [ 25%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fij] PASSED [ 26%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fij_Latn] PASSED [ 26%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[finnish] PASSED [ 26%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fin] PASSED [ 26%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fin_Latn] PASSED [ 26%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fon] PASSED [ 26%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fon_Latn] PASSED [ 27%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[french] PASSED [ 27%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fra] PASSED [ 27%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fra_Latn] PASSED [ 27%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[friulian] PASSED [ 27%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fur] PASSED [ 27%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fur_Latn] PASSED [ 28%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nigerian fulfulde] PASSED [ 28%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fuv] PASSED [ 28%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[fuv_Latn] PASSED [ 28%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[scottish gaelic] PASSED [ 28%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[gla] PASSED [ 28%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[gla_Latn] PASSED [ 29%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[irish] PASSED [ 29%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[gle] PASSED [ 29%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[gle_Latn] PASSED [ 29%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[galician] PASSED [ 29%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[glg] PASSED [ 29%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[glg_Latn] PASSED [ 30%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[guarani] PASSED [ 30%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[grn] PASSED [ 30%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[grn_Latn] PASSED [ 30%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[gujarati] PASSED [ 30%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[guj] PASSED [ 30%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[guj_Gujr] PASSED [ 31%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[haitian creole] PASSED [ 31%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hat] PASSED [ 31%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hat_Latn] PASSED [ 31%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hausa] PASSED [ 31%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hau] PASSED [ 31%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hau_Latn] PASSED [ 32%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hebrew] PASSED [ 32%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[heb] PASSED [ 32%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[heb_Hebr] PASSED [ 32%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hindi] PASSED [ 32%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hin] PASSED [ 32%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hin_Deva] PASSED [ 33%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[chhattisgarhi] PASSED [ 33%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hne] PASSED [ 33%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hne_Deva] PASSED [ 33%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[croatian] PASSED [ 33%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hrv] PASSED [ 34%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hrv_Latn] PASSED [ 34%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hungarian] PASSED [ 34%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hun] PASSED [ 34%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hun_Latn] PASSED [ 34%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[armenian] PASSED [ 34%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hye] PASSED [ 35%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[hye_Armn] PASSED [ 35%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[igbo] PASSED [ 35%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ibo] PASSED [ 35%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ibo_Latn] PASSED [ 35%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ilocano] PASSED [ 35%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ilo] PASSED [ 36%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ilo_Latn] PASSED [ 36%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[indonesian] PASSED [ 36%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ind] PASSED [ 36%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ind_Latn] PASSED [ 36%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[icelandic] PASSED [ 36%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[isl] PASSED [ 37%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[isl_Latn] PASSED [ 37%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[italian] PASSED [ 37%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ita] PASSED [ 37%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ita_Latn] PASSED [ 37%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[javanese] PASSED [ 37%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[jav] PASSED [ 38%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[jav_Latn] PASSED [ 38%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[japanese] PASSED [ 38%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[jpn] PASSED [ 38%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[jpn_Jpan] PASSED [ 38%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kabyle] PASSED [ 38%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kab] PASSED [ 39%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kab_Latn] PASSED [ 39%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[jingpho] PASSED [ 39%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kac] PASSED [ 39%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kac_Latn] PASSED [ 39%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kamba] PASSED [ 39%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kam] PASSED [ 40%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kam_Latn] PASSED [ 40%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kannada] PASSED [ 40%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kan] PASSED [ 40%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kan_Knda] PASSED [ 40%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kashmiri] FAILED [ 40%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kas] FAILED [ 41%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kas_Arab] PASSED [ 41%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kas_Deva] PASSED [ 41%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[georgian] PASSED [ 41%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kat] PASSED [ 41%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kat_Geor] PASSED [ 41%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[central kanuri] FAILED [ 42%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[knc] FAILED [ 42%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[knc_Arab] PASSED [ 42%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[knc_Latn] PASSED [ 42%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kazakh] PASSED [ 42%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kaz] PASSED [ 42%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kaz_Cyrl] PASSED [ 43%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kabiy\xe8] PASSED [ 43%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kbp] PASSED [ 43%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kbp_Latn] PASSED [ 43%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kabuverdianu] PASSED [ 43%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kea] PASSED [ 43%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kea_Latn] PASSED [ 44%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[khmer] PASSED [ 44%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[khm] PASSED [ 44%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[khm_Khmr] PASSED [ 44%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kikuyu] PASSED [ 44%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kik] PASSED [ 45%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kik_Latn] PASSED [ 45%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kinyarwanda] PASSED [ 45%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kin] PASSED [ 45%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kin_Latn] PASSED [ 45%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kyrgyz] PASSED [ 45%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kir] PASSED [ 46%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kir_Cyrl] PASSED [ 46%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kimbundu] PASSED [ 46%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kmb] PASSED [ 46%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kmb_Latn] PASSED [ 46%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[northern kurdish] PASSED [ 46%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kmr] PASSED [ 47%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kmr_Latn] PASSED [ 47%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kikongo] PASSED [ 47%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kon] PASSED [ 47%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kon_Latn] PASSED [ 47%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[korean] PASSED [ 47%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kor] PASSED [ 48%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kor_Hang] PASSED [ 48%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lao] PASSED [ 48%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lao_Laoo] PASSED [ 48%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ligurian] PASSED [ 48%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lij] PASSED [ 48%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lij_Latn] PASSED [ 49%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[limburgish] PASSED [ 49%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lim] PASSED [ 49%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lim_Latn] PASSED [ 49%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lingala] PASSED [ 49%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lin] PASSED [ 49%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lin_Latn] PASSED [ 50%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lithuanian] PASSED [ 50%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lit] PASSED [ 50%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lit_Latn] PASSED [ 50%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lombard] PASSED [ 50%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lmo] PASSED [ 50%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lmo_Latn] PASSED [ 51%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[latgalian] PASSED [ 51%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ltg] PASSED [ 51%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ltg_Latn] PASSED [ 51%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[luxembourgish] PASSED [ 51%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ltz] PASSED [ 51%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ltz_Latn] PASSED [ 52%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[luba-kasai] FAILED [ 52%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lua] PASSED [ 52%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lua_Latn] PASSED [ 52%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ganda] PASSED [ 52%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lug] PASSED [ 52%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lug_Latn] PASSED [ 53%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[luo] PASSED [ 53%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[luo_Latn] PASSED [ 53%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mizo] PASSED [ 53%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lus] PASSED [ 53%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lus_Latn] PASSED [ 53%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[standard latvian] PASSED [ 54%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lvs] PASSED [ 54%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[lvs_Latn] PASSED [ 54%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[magahi] PASSED [ 54%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mag] PASSED [ 54%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mag_Deva] PASSED [ 54%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[maithili] PASSED [ 55%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mai] PASSED [ 55%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mai_Deva] PASSED [ 55%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[malayalam] PASSED [ 55%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mal] PASSED [ 55%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mal_Mlym] PASSED [ 56%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[marathi] PASSED [ 56%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mar] PASSED [ 56%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mar_Deva] PASSED [ 56%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[minangkabau] PASSED [ 56%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[min] PASSED [ 56%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[min_Arab] PASSED [ 57%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[min_Latn] PASSED [ 57%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[macedonian] PASSED [ 57%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mkd] PASSED [ 57%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mkd_Cyrl] PASSED [ 57%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[plateau malagasy] PASSED [ 57%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[plt] PASSED [ 58%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[plt_Latn] PASSED [ 58%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[maltese] PASSED [ 58%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mlt] PASSED [ 58%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mlt_Latn] PASSED [ 58%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[meitei] PASSED [ 58%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mni] PASSED [ 59%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mni_Beng] PASSED [ 59%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[halh mongolian] PASSED [ 59%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[khk] PASSED [ 59%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[khk_Cyrl] PASSED [ 59%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mossi] PASSED [ 59%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mos] PASSED [ 60%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mos_Latn] PASSED [ 60%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[maori] PASSED [ 60%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mri] PASSED [ 60%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mri_Latn] PASSED [ 60%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[burmese] PASSED [ 60%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mya] PASSED [ 61%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[mya_Mymr] PASSED [ 61%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dutch] PASSED [ 61%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nld] PASSED [ 61%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nld_Latn] PASSED [ 61%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[norwegian nynorsk] PASSED [ 61%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nno] PASSED [ 62%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nno_Latn] PASSED [ 62%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[norwegian bokm\xe5l] PASSED [ 62%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nob] PASSED [ 62%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nob_Latn] PASSED [ 62%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nepali] PASSED [ 62%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[npi] PASSED [ 63%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[npi_Deva] PASSED [ 63%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[northern sotho] PASSED [ 63%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nso] PASSED [ 63%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nso_Latn] PASSED [ 63%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nuer] PASSED [ 63%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nus] PASSED [ 64%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nus_Latn] PASSED [ 64%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nyanja] PASSED [ 64%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nya] PASSED [ 64%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[nya_Latn] PASSED [ 64%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[occitan] PASSED [ 64%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[oci] PASSED [ 65%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[oci_Latn] PASSED [ 65%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[west central oromo] PASSED [ 65%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[gaz] PASSED [ 65%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[gaz_Latn] PASSED [ 65%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[odia] PASSED [ 65%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ory] PASSED [ 66%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ory_Orya] PASSED [ 66%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pangasinan] PASSED [ 66%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pag] PASSED [ 66%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pag_Latn] PASSED [ 66%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[eastern panjabi] PASSED [ 67%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pan] PASSED [ 67%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pan_Guru] PASSED [ 67%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[papiamento] PASSED [ 67%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pap] PASSED [ 67%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pap_Latn] PASSED [ 67%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[western persian] PASSED [ 68%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pes] PASSED [ 68%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pes_Arab] PASSED [ 68%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[polish] PASSED [ 68%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pol] PASSED [ 68%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pol_Latn] PASSED [ 68%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[portuguese] PASSED [ 69%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[por] PASSED [ 69%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[por_Latn] PASSED [ 69%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[dari] PASSED [ 69%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[prs] PASSED [ 69%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[prs_Arab] PASSED [ 69%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[southern pashto] PASSED [ 70%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pbt] PASSED [ 70%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[pbt_Arab] PASSED [ 70%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ayacucho quechua] PASSED [ 70%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[quy] PASSED [ 70%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[quy_Latn] PASSED [ 70%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[romanian] PASSED [ 71%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ron] PASSED [ 71%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ron_Latn] PASSED [ 71%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[rundi] PASSED [ 71%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[run] PASSED [ 71%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[run_Latn] PASSED [ 71%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[russian] PASSED [ 72%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[rus] PASSED [ 72%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[rus_Cyrl] PASSED [ 72%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sango] PASSED [ 72%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sag] PASSED [ 72%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sag_Latn] PASSED [ 72%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sanskrit] PASSED [ 73%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[san] PASSED [ 73%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[san_Deva] PASSED [ 73%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[santali] PASSED [ 73%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sat] PASSED [ 73%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sat_Olck] PASSED [ 73%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sicilian] PASSED [ 74%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[scn] PASSED [ 74%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[scn_Latn] PASSED [ 74%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[shan] PASSED [ 74%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[shn] PASSED [ 74%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[shn_Mymr] PASSED [ 74%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sinhala] PASSED [ 75%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sin] PASSED [ 75%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sin_Sinh] PASSED [ 75%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[slovak] PASSED [ 75%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[slk] PASSED [ 75%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[slk_Latn] PASSED [ 75%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[slovenian] PASSED [ 76%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[slv] PASSED [ 76%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[slv_Latn] PASSED [ 76%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[samoan] PASSED [ 76%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[smo] PASSED [ 76%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[smo_Latn] PASSED [ 76%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[shona] PASSED [ 77%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sna] PASSED [ 77%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sna_Latn] PASSED [ 77%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sindhi] PASSED [ 77%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[snd] PASSED [ 77%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[snd_Arab] PASSED [ 78%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[somali] PASSED [ 78%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[som] PASSED [ 78%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[som_Latn] PASSED [ 78%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[southern sotho] PASSED [ 78%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sot] PASSED [ 78%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sot_Latn] PASSED [ 79%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[spanish] PASSED [ 79%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[spa] PASSED [ 79%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[spa_Latn] PASSED [ 79%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tosk albanian] PASSED [ 79%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[als] PASSED [ 79%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[als_Latn] PASSED [ 80%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sardinian] PASSED [ 80%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[srd] PASSED [ 80%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[srd_Latn] PASSED [ 80%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[serbian] PASSED [ 80%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[srp] PASSED [ 80%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[srp_Cyrl] PASSED [ 81%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[swati] PASSED [ 81%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ssw] PASSED [ 81%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ssw_Latn] PASSED [ 81%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sundanese] PASSED [ 81%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sun] PASSED [ 81%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[sun_Latn] PASSED [ 82%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[swedish] PASSED [ 82%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[swe] PASSED [ 82%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[swe_Latn] PASSED [ 82%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[swahili] PASSED [ 82%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[swh] PASSED [ 82%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[swh_Latn] PASSED [ 83%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[silesian] PASSED [ 83%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[szl] PASSED [ 83%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[szl_Latn] PASSED [ 83%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tamil] PASSED [ 83%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tam] PASSED [ 83%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tam_Taml] PASSED [ 84%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tatar] PASSED [ 84%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tat] PASSED [ 84%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tat_Cyrl] PASSED [ 84%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[telugu] PASSED [ 84%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tel] PASSED [ 84%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tel_Telu] PASSED [ 85%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tajik] PASSED [ 85%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tgk] PASSED [ 85%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tgk_Cyrl] PASSED [ 85%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tagalog] PASSED [ 85%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tgl] PASSED [ 85%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tgl_Latn] PASSED [ 86%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[thai] PASSED [ 86%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tha] PASSED [ 86%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tha_Thai] PASSED [ 86%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tigrinya] PASSED [ 86%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tir] PASSED [ 86%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tir_Ethi] PASSED [ 87%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tamasheq] PASSED [ 87%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[taq] PASSED [ 87%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[taq_Latn] PASSED [ 87%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[taq_Tfng] PASSED [ 87%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tok pisin] PASSED [ 87%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tpi] PASSED [ 88%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tpi_Latn] PASSED [ 88%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tswana] PASSED [ 88%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tsn] PASSED [ 88%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tsn_Latn] PASSED [ 88%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tsonga] PASSED [ 89%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tso] PASSED [ 89%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tso_Latn] PASSED [ 89%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[turkmen] PASSED [ 89%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tuk] PASSED [ 89%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tuk_Latn] PASSED [ 89%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tumbuka] PASSED [ 90%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tum] PASSED [ 90%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tum_Latn] PASSED [ 90%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[turkish] PASSED [ 90%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tur] PASSED [ 90%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tur_Latn] PASSED [ 90%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[twi] PASSED [ 91%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[twi_Latn] PASSED [ 91%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[central atlas tamazight] PASSED [ 91%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tzm] PASSED [ 91%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[tzm_Tfng] PASSED [ 91%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[uyghur] PASSED [ 91%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[uig] PASSED [ 92%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[uig_Arab] PASSED [ 92%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ukrainian] PASSED [ 92%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ukr] PASSED [ 92%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ukr_Cyrl] PASSED [ 92%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[umbundu] PASSED [ 92%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[umb] PASSED [ 93%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[umb_Latn] PASSED [ 93%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[urdu] PASSED [ 93%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[urd] PASSED [ 93%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[urd_Arab] PASSED [ 93%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[northern uzbek] PASSED [ 93%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[uzn] PASSED [ 94%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[uzn_Latn] PASSED [ 94%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[venetian] PASSED [ 94%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[vec] PASSED [ 94%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[vec_Latn] PASSED [ 94%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[vietnamese] PASSED [ 94%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[vie] PASSED [ 95%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[vie_Latn] PASSED [ 95%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[waray] PASSED [ 95%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[war] PASSED [ 95%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[war_Latn] PASSED [ 95%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[wolof] PASSED [ 95%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[wol] PASSED [ 96%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[wol_Latn] PASSED [ 96%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[xhosa] PASSED [ 96%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[xho] PASSED [ 96%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[xho_Latn] PASSED [ 96%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[eastern yiddish] PASSED [ 96%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ydd] PASSED [ 97%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[ydd_Hebr] PASSED [ 97%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[yoruba] PASSED [ 97%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[yor] PASSED [ 97%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[yor_Latn] PASSED [ 97%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[yue chinese] PASSED [ 97%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[yue] PASSED [ 98%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[yue_Hant] PASSED [ 98%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[chinese] PASSED [ 98%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[zho] PASSED [ 98%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[zho_Hans] PASSED [ 98%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[zho_Hant] PASSED [ 98%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[standard malay] PASSED [ 99%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[zsm] PASSED [ 99%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[zsm_Latn] PASSED [ 99%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[zulu] PASSED [ 99%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[zul] PASSED [ 99%]
+LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[zul_Latn] PASSED [100%]
+
+============================================= FAILURES =============================================
+___________________ test_validate_language_models_and_tokenize_laser2[kashmiri] ____________________
+
+lang = 'kashmiri'
+
+    @pytest.mark.parametrize("lang", LASER2_LANGUAGE)
+    def test_validate_language_models_and_tokenize_laser2(lang):
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            print(f"Created temporary directory for {lang}", tmp_dir)
+    
+            downloader = LaserModelDownloader(model_dir=tmp_dir)
+            downloader.download_laser2()
+    
+>           encoder = initialize_encoder(lang, model_dir=tmp_dir)
+
+LASER-fork/laser_encoders/validate_models.py:65: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+LASER-fork/laser_encoders/models.py:355: in initialize_encoder
+    downloader.download_laser3(lang=lang, spm=spm)
+LASER-fork/laser_encoders/download_models.py:91: in download_laser3
+    result = self.get_language_code(LASER3_LANGUAGE, lang)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <laser_encoders.download_models.LaserModelDownloader object at 0x7f0339572a70>
+language_list = {'central kanuri': ['knc_Arab', 'knc_Latn'], 'kas': ['kas_Arab', 'kas_Deva'], 'kashmiri': ['kas_Arab', 'kas_Deva'], 'knc': ['knc_Arab', 'knc_Latn']}
+lang = ['kas_Arab', 'kas_Deva']
+
+    def get_language_code(self, language_list: dict, lang: str) -> str:
+        try:
+>           lang_3_4 = language_list[lang]
+E           TypeError: unhashable type: 'list'
+
+LASER-fork/laser_encoders/download_models.py:73: TypeError
+--------------------------------------- Captured stdout call ---------------------------------------
+Created temporary directory for kashmiri /tmp/tmpkkxlz4i5
+--------------------------------------- Captured stderr call ---------------------------------------
+
+  0%|          | 0.00/179M [00:00<?, ?B/s]
+  3%|▎         | 4.78M/179M [00:00<00:03, 47.3MB/s]
+  7%|▋         | 13.3M/179M [00:00<00:02, 69.7MB/s]
+ 13%|█▎        | 22.8M/179M [00:00<00:01, 81.2MB/s]
+ 18%|█▊        | 31.5M/179M [00:00<00:01, 83.5MB/s]
+ 23%|██▎       | 41.5M/179M [00:00<00:01, 89.5MB/s]
+ 29%|██▉       | 51.7M/179M [00:00<00:01, 93.6MB/s]
+ 35%|███▍      | 61.9M/179M [00:00<00:01, 96.4MB/s]
+ 40%|████      | 72.0M/179M [00:00<00:01, 97.7MB/s]
+ 46%|████▌     | 82.2M/179M [00:00<00:00, 99.1MB/s]
+ 51%|█████▏    | 92.1M/179M [00:01<00:00, 98.1MB/s]
+ 57%|█████▋    | 102M/179M [00:01<00:00, 89.9MB/s] 
+ 62%|██████▏   | 111M/179M [00:01<00:00, 89.6MB/s]
+ 67%|██████▋   | 121M/179M [00:01<00:00, 91.2MB/s]
+ 72%|███████▏  | 130M/179M [00:01<00:00, 89.3MB/s]
+ 78%|███████▊  | 139M/179M [00:01<00:00, 91.2MB/s]
+ 83%|████████▎ | 149M/179M [00:01<00:00, 89.7MB/s]
+ 88%|████████▊ | 158M/179M [00:01<00:00, 90.0MB/s]
+ 93%|█████████▎| 167M/179M [00:01<00:00, 90.2MB/s]
+ 98%|█████████▊| 176M/179M [00:01<00:00, 91.4MB/s]
+100%|██████████| 179M/179M [00:01<00:00, 90.5MB/s]
+
+  0%|          | 0.00/1.01M [00:00<?, ?B/s]
+100%|██████████| 1.01M/1.01M [00:00<00:00, 22.1MB/s]
+
+  0%|          | 0.00/470k [00:00<?, ?B/s]
+100%|██████████| 470k/470k [00:00<00:00, 10.9MB/s]
+______________________ test_validate_language_models_and_tokenize_laser2[kas] ______________________
+
+lang = 'kas'
+
+    @pytest.mark.parametrize("lang", LASER2_LANGUAGE)
+    def test_validate_language_models_and_tokenize_laser2(lang):
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            print(f"Created temporary directory for {lang}", tmp_dir)
+    
+            downloader = LaserModelDownloader(model_dir=tmp_dir)
+            downloader.download_laser2()
+    
+>           encoder = initialize_encoder(lang, model_dir=tmp_dir)
+
+LASER-fork/laser_encoders/validate_models.py:65: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+LASER-fork/laser_encoders/models.py:355: in initialize_encoder
+    downloader.download_laser3(lang=lang, spm=spm)
+LASER-fork/laser_encoders/download_models.py:91: in download_laser3
+    result = self.get_language_code(LASER3_LANGUAGE, lang)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <laser_encoders.download_models.LaserModelDownloader object at 0x7f033015cf40>
+language_list = {'central kanuri': ['knc_Arab', 'knc_Latn'], 'kas': ['kas_Arab', 'kas_Deva'], 'kashmiri': ['kas_Arab', 'kas_Deva'], 'knc': ['knc_Arab', 'knc_Latn']}
+lang = ['kas_Arab', 'kas_Deva']
+
+    def get_language_code(self, language_list: dict, lang: str) -> str:
+        try:
+>           lang_3_4 = language_list[lang]
+E           TypeError: unhashable type: 'list'
+
+LASER-fork/laser_encoders/download_models.py:73: TypeError
+--------------------------------------- Captured stdout call ---------------------------------------
+Created temporary directory for kas /tmp/tmpmxlf376t
+--------------------------------------- Captured stderr call ---------------------------------------
+
+  0%|          | 0.00/179M [00:00<?, ?B/s]
+  3%|▎         | 5.71M/179M [00:00<00:03, 57.1MB/s]
+  9%|▉         | 15.8M/179M [00:00<00:01, 83.0MB/s]
+ 14%|█▍        | 25.6M/179M [00:00<00:01, 89.9MB/s]
+ 20%|█▉        | 35.2M/179M [00:00<00:01, 92.3MB/s]
+ 25%|██▍       | 44.7M/179M [00:00<00:01, 93.2MB/s]
+ 30%|███       | 54.1M/179M [00:00<00:01, 91.7MB/s]
+ 35%|███▌      | 63.2M/179M [00:00<00:01, 89.2MB/s]
+ 41%|████      | 73.2M/179M [00:00<00:01, 92.5MB/s]
+ 46%|████▋     | 83.3M/179M [00:00<00:01, 95.0MB/s]
+ 52%|█████▏    | 92.8M/179M [00:01<00:00, 92.8MB/s]
+ 57%|█████▋    | 102M/179M [00:01<00:00, 88.9MB/s] 
+ 62%|██████▏   | 111M/179M [00:01<00:00, 88.9MB/s]
+ 67%|██████▋   | 120M/179M [00:01<00:00, 88.1MB/s]
+ 72%|███████▏  | 129M/179M [00:01<00:00, 89.0MB/s]
+ 77%|███████▋  | 138M/179M [00:01<00:00, 90.2MB/s]
+ 82%|████████▏ | 147M/179M [00:01<00:00, 88.5MB/s]
+ 87%|████████▋ | 156M/179M [00:01<00:00, 86.4MB/s]
+ 92%|█████████▏| 166M/179M [00:01<00:00, 88.2MB/s]
+ 97%|█████████▋| 175M/179M [00:01<00:00, 89.4MB/s]
+100%|██████████| 179M/179M [00:02<00:00, 89.6MB/s]
+
+  0%|          | 0.00/1.01M [00:00<?, ?B/s]
+100%|██████████| 1.01M/1.01M [00:00<00:00, 20.6MB/s]
+
+  0%|          | 0.00/470k [00:00<?, ?B/s]
+100%|██████████| 470k/470k [00:00<00:00, 14.3MB/s]
+________________ test_validate_language_models_and_tokenize_laser2[central kanuri] _________________
+
+lang = 'central kanuri'
+
+    @pytest.mark.parametrize("lang", LASER2_LANGUAGE)
+    def test_validate_language_models_and_tokenize_laser2(lang):
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            print(f"Created temporary directory for {lang}", tmp_dir)
+    
+            downloader = LaserModelDownloader(model_dir=tmp_dir)
+            downloader.download_laser2()
+    
+>           encoder = initialize_encoder(lang, model_dir=tmp_dir)
+
+LASER-fork/laser_encoders/validate_models.py:65: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+LASER-fork/laser_encoders/models.py:355: in initialize_encoder
+    downloader.download_laser3(lang=lang, spm=spm)
+LASER-fork/laser_encoders/download_models.py:91: in download_laser3
+    result = self.get_language_code(LASER3_LANGUAGE, lang)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <laser_encoders.download_models.LaserModelDownloader object at 0x7f033019ed70>
+language_list = {'central kanuri': ['knc_Arab', 'knc_Latn'], 'kas': ['kas_Arab', 'kas_Deva'], 'kashmiri': ['kas_Arab', 'kas_Deva'], 'knc': ['knc_Arab', 'knc_Latn']}
+lang = ['knc_Arab', 'knc_Latn']
+
+    def get_language_code(self, language_list: dict, lang: str) -> str:
+        try:
+>           lang_3_4 = language_list[lang]
+E           TypeError: unhashable type: 'list'
+
+LASER-fork/laser_encoders/download_models.py:73: TypeError
+--------------------------------------- Captured stdout call ---------------------------------------
+Created temporary directory for central kanuri /tmp/tmp34kdnhxk
+--------------------------------------- Captured stderr call ---------------------------------------
+
+  0%|          | 0.00/179M [00:00<?, ?B/s]
+  3%|▎         | 5.92M/179M [00:00<00:02, 59.2MB/s]
+  8%|▊         | 15.3M/179M [00:00<00:02, 79.3MB/s]
+ 13%|█▎        | 23.8M/179M [00:00<00:01, 82.0MB/s]
+ 19%|█▊        | 33.2M/179M [00:00<00:01, 86.9MB/s]
+ 24%|██▍       | 43.3M/179M [00:00<00:01, 91.7MB/s]
+ 29%|██▉       | 52.7M/179M [00:00<00:01, 92.7MB/s]
+ 35%|███▍      | 62.7M/179M [00:00<00:01, 95.2MB/s]
+ 41%|████      | 73.1M/179M [00:00<00:01, 97.9MB/s]
+ 47%|████▋     | 83.5M/179M [00:00<00:00, 99.9MB/s]
+ 52%|█████▏    | 93.5M/179M [00:01<00:00, 93.4MB/s]
+ 57%|█████▋    | 103M/179M [00:01<00:00, 91.3MB/s] 
+ 63%|██████▎   | 112M/179M [00:01<00:00, 91.6MB/s]
+ 68%|██████▊   | 121M/179M [00:01<00:00, 89.5MB/s]
+ 73%|███████▎  | 131M/179M [00:01<00:00, 90.6MB/s]
+ 78%|███████▊  | 140M/179M [00:01<00:00, 91.7MB/s]
+ 83%|████████▎ | 149M/179M [00:01<00:00, 90.4MB/s]
+ 88%|████████▊ | 159M/179M [00:01<00:00, 91.1MB/s]
+ 94%|█████████▎| 168M/179M [00:01<00:00, 92.4MB/s]
+ 99%|█████████▉| 178M/179M [00:01<00:00, 93.8MB/s]
+100%|██████████| 179M/179M [00:01<00:00, 91.5MB/s]
+
+  0%|          | 0.00/1.01M [00:00<?, ?B/s]
+100%|██████████| 1.01M/1.01M [00:00<00:00, 19.8MB/s]
+
+  0%|          | 0.00/470k [00:00<?, ?B/s]
+100%|██████████| 470k/470k [00:00<00:00, 14.6MB/s]
+______________________ test_validate_language_models_and_tokenize_laser2[knc] ______________________
+
+lang = 'knc'
+
+    @pytest.mark.parametrize("lang", LASER2_LANGUAGE)
+    def test_validate_language_models_and_tokenize_laser2(lang):
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            print(f"Created temporary directory for {lang}", tmp_dir)
+    
+            downloader = LaserModelDownloader(model_dir=tmp_dir)
+            downloader.download_laser2()
+    
+>           encoder = initialize_encoder(lang, model_dir=tmp_dir)
+
+LASER-fork/laser_encoders/validate_models.py:65: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+LASER-fork/laser_encoders/models.py:355: in initialize_encoder
+    downloader.download_laser3(lang=lang, spm=spm)
+LASER-fork/laser_encoders/download_models.py:91: in download_laser3
+    result = self.get_language_code(LASER3_LANGUAGE, lang)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <laser_encoders.download_models.LaserModelDownloader object at 0x7f033015d4e0>
+language_list = {'central kanuri': ['knc_Arab', 'knc_Latn'], 'kas': ['kas_Arab', 'kas_Deva'], 'kashmiri': ['kas_Arab', 'kas_Deva'], 'knc': ['knc_Arab', 'knc_Latn']}
+lang = ['knc_Arab', 'knc_Latn']
+
+    def get_language_code(self, language_list: dict, lang: str) -> str:
+        try:
+>           lang_3_4 = language_list[lang]
+E           TypeError: unhashable type: 'list'
+
+LASER-fork/laser_encoders/download_models.py:73: TypeError
+--------------------------------------- Captured stdout call ---------------------------------------
+Created temporary directory for knc /tmp/tmp5p4dnl6f
+--------------------------------------- Captured stderr call ---------------------------------------
+
+  0%|          | 0.00/179M [00:00<?, ?B/s]
+  2%|▏         | 3.99M/179M [00:00<00:04, 39.9MB/s]
+  5%|▌         | 9.80M/179M [00:00<00:03, 50.6MB/s]
+  9%|▊         | 15.6M/179M [00:00<00:03, 54.1MB/s]
+ 12%|█▏        | 21.4M/179M [00:00<00:02, 55.7MB/s]
+ 15%|█▌        | 27.3M/179M [00:00<00:02, 56.9MB/s]
+ 18%|█▊        | 33.0M/179M [00:00<00:02, 56.5MB/s]
+ 22%|██▏       | 38.7M/179M [00:00<00:02, 56.0MB/s]
+ 25%|██▍       | 44.4M/179M [00:00<00:02, 56.3MB/s]
+ 28%|██▊       | 50.0M/179M [00:00<00:02, 56.2MB/s]
+ 31%|███       | 55.6M/179M [00:01<00:02, 55.4MB/s]
+ 34%|███▍      | 61.4M/179M [00:01<00:02, 56.2MB/s]
+ 37%|███▋      | 67.2M/179M [00:01<00:01, 56.7MB/s]
+ 41%|████      | 73.0M/179M [00:01<00:01, 57.2MB/s]
+ 44%|████▍     | 78.8M/179M [00:01<00:01, 57.3MB/s]
+ 47%|████▋     | 84.5M/179M [00:01<00:01, 56.6MB/s]
+ 50%|█████     | 90.2M/179M [00:01<00:01, 56.4MB/s]
+ 53%|█████▎    | 95.8M/179M [00:01<00:01, 48.9MB/s]
+ 56%|█████▋    | 101M/179M [00:01<00:01, 50.2MB/s] 
+ 59%|█████▉    | 107M/179M [00:01<00:01, 51.3MB/s]
+ 62%|██████▏   | 112M/179M [00:02<00:01, 51.8MB/s]
+ 65%|██████▌   | 117M/179M [00:02<00:01, 52.8MB/s]
+ 69%|██████▊   | 123M/179M [00:02<00:01, 53.5MB/s]
+ 72%|███████▏  | 128M/179M [00:02<00:00, 53.7MB/s]
+ 75%|███████▍  | 134M/179M [00:02<00:00, 54.1MB/s]
+ 78%|███████▊  | 140M/179M [00:02<00:00, 55.1MB/s]
+ 81%|████████  | 145M/179M [00:02<00:00, 51.7MB/s]
+ 84%|████████▍ | 150M/179M [00:02<00:00, 51.8MB/s]
+ 87%|████████▋ | 156M/179M [00:02<00:00, 51.8MB/s]
+ 90%|████████▉ | 161M/179M [00:02<00:00, 52.1MB/s]
+ 93%|█████████▎| 166M/179M [00:03<00:00, 53.2MB/s]
+ 96%|█████████▌| 172M/179M [00:03<00:00, 54.8MB/s]
+ 99%|█████████▉| 178M/179M [00:03<00:00, 55.5MB/s]
+100%|██████████| 179M/179M [00:03<00:00, 54.1MB/s]
+
+  0%|          | 0.00/1.01M [00:00<?, ?B/s]
+100%|██████████| 1.01M/1.01M [00:00<00:00, 22.7MB/s]
+
+  0%|          | 0.00/470k [00:00<?, ?B/s]
+100%|██████████| 470k/470k [00:00<00:00, 14.1MB/s]
+__________________ test_validate_language_models_and_tokenize_laser2[luba-kasai] ___________________
+
+self = <urllib3.connectionpool.HTTPSConnectionPool object at 0x7f03301da920>, method = 'GET'
+url = '/nllb/laser/laser2.cvocab', body = None
+headers = {'User-Agent': 'python-requests/2.31.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+retries = Retry(total=0, connect=None, read=False, redirect=None, status=None), redirect = False
+assert_same_host = False, timeout = Timeout(connect=None, read=None, total=None)
+pool_timeout = None, release_conn = False, chunked = False, body_pos = None, preload_content = False
+decode_content = False, response_kw = {}
+parsed_url = Url(scheme=None, auth=None, host=None, port=None, path='/nllb/laser/laser2.cvocab', query=None, fragment=None)
+destination_scheme = None, conn = None, release_this_conn = True, http_tunnel_required = False
+err = None, clean_exit = False
+
+    def urlopen(  # type: ignore[override]
+        self,
+        method: str,
+        url: str,
+        body: _TYPE_BODY | None = None,
+        headers: typing.Mapping[str, str] | None = None,
+        retries: Retry | bool | int | None = None,
+        redirect: bool = True,
+        assert_same_host: bool = True,
+        timeout: _TYPE_TIMEOUT = _DEFAULT_TIMEOUT,
+        pool_timeout: int | None = None,
+        release_conn: bool | None = None,
+        chunked: bool = False,
+        body_pos: _TYPE_BODY_POSITION | None = None,
+        preload_content: bool = True,
+        decode_content: bool = True,
+        **response_kw: typing.Any,
+    ) -> BaseHTTPResponse:
+        """
+        Get a connection from the pool and perform an HTTP request. This is the
+        lowest level call for making a request, so you'll need to specify all
+        the raw details.
+    
+        .. note::
+    
+           More commonly, it's appropriate to use a convenience method
+           such as :meth:`request`.
+    
+        .. note::
+    
+           `release_conn` will only behave as expected if
+           `preload_content=False` because we want to make
+           `preload_content=False` the default behaviour someday soon without
+           breaking backwards compatibility.
+    
+        :param method:
+            HTTP request method (such as GET, POST, PUT, etc.)
+    
+        :param url:
+            The URL to perform the request on.
+    
+        :param body:
+            Data to send in the request body, either :class:`str`, :class:`bytes`,
+            an iterable of :class:`str`/:class:`bytes`, or a file-like object.
+    
+        :param headers:
+            Dictionary of custom headers to send, such as User-Agent,
+            If-None-Match, etc. If None, pool headers are used. If provided,
+            these headers completely replace any pool-specific headers.
+    
+        :param retries:
+            Configure the number of retries to allow before raising a
+            :class:`~urllib3.exceptions.MaxRetryError` exception.
+    
+            Pass ``None`` to retry until you receive a response. Pass a
+            :class:`~urllib3.util.retry.Retry` object for fine-grained control
+            over different types of retries.
+            Pass an integer number to retry connection errors that many times,
+            but no other types of errors. Pass zero to never retry.
+    
+            If ``False``, then retries are disabled and any exception is raised
+            immediately. Also, instead of raising a MaxRetryError on redirects,
+            the redirect response will be returned.
+    
+        :type retries: :class:`~urllib3.util.retry.Retry`, False, or an int.
+    
+        :param redirect:
+            If True, automatically handle redirects (status codes 301, 302,
+            303, 307, 308). Each redirect counts as a retry. Disabling retries
+            will disable redirect, too.
+    
+        :param assert_same_host:
+            If ``True``, will make sure that the host of the pool requests is
+            consistent else will raise HostChangedError. When ``False``, you can
+            use the pool on an HTTP proxy and request foreign hosts.
+    
+        :param timeout:
+            If specified, overrides the default timeout for this one
+            request. It may be a float (in seconds) or an instance of
+            :class:`urllib3.util.Timeout`.
+    
+        :param pool_timeout:
+            If set and the pool is set to block=True, then this method will
+            block for ``pool_timeout`` seconds and raise EmptyPoolError if no
+            connection is available within the time period.
+    
+        :param bool preload_content:
+            If True, the response's body will be preloaded into memory.
+    
+        :param bool decode_content:
+            If True, will attempt to decode the body based on the
+            'content-encoding' header.
+    
+        :param release_conn:
+            If False, then the urlopen call will not release the connection
+            back into the pool once a response is received (but will release if
+            you read the entire contents of the response such as when
+            `preload_content=True`). This is useful if you're not preloading
+            the response's content immediately. You will need to call
+            ``r.release_conn()`` on the response ``r`` to return the connection
+            back into the pool. If None, it takes the value of ``preload_content``
+            which defaults to ``True``.
+    
+        :param bool chunked:
+            If True, urllib3 will send the body using chunked transfer
+            encoding. Otherwise, urllib3 will send the body using the standard
+            content-length form. Defaults to False.
+    
+        :param int body_pos:
+            Position to seek to in file-like body in the event of a retry or
+            redirect. Typically this won't need to be set because urllib3 will
+            auto-populate the value when needed.
+        """
+        parsed_url = parse_url(url)
+        destination_scheme = parsed_url.scheme
+    
+        if headers is None:
+            headers = self.headers
+    
+        if not isinstance(retries, Retry):
+            retries = Retry.from_int(retries, redirect=redirect, default=self.retries)
+    
+        if release_conn is None:
+            release_conn = preload_content
+    
+        # Check host
+        if assert_same_host and not self.is_same_host(url):
+            raise HostChangedError(self, url, retries)
+    
+        # Ensure that the URL we're connecting to is properly encoded
+        if url.startswith("/"):
+            url = to_str(_encode_target(url))
+        else:
+            url = to_str(parsed_url.url)
+    
+        conn = None
+    
+        # Track whether `conn` needs to be released before
+        # returning/raising/recursing. Update this variable if necessary, and
+        # leave `release_conn` constant throughout the function. That way, if
+        # the function recurses, the original value of `release_conn` will be
+        # passed down into the recursive call, and its value will be respected.
+        #
+        # See issue #651 [1] for details.
+        #
+        # [1] <https://github.com/urllib3/urllib3/issues/651>
+        release_this_conn = release_conn
+    
+        http_tunnel_required = connection_requires_http_tunnel(
+            self.proxy, self.proxy_config, destination_scheme
+        )
+    
+        # Merge the proxy headers. Only done when not using HTTP CONNECT. We
+        # have to copy the headers dict so we can safely change it without those
+        # changes being reflected in anyone else's copy.
+        if not http_tunnel_required:
+            headers = headers.copy()  # type: ignore[attr-defined]
+            headers.update(self.proxy_headers)  # type: ignore[union-attr]
+    
+        # Must keep the exception bound to a separate variable or else Python 3
+        # complains about UnboundLocalError.
+        err = None
+    
+        # Keep track of whether we cleanly exited the except block. This
+        # ensures we do proper cleanup in finally.
+        clean_exit = False
+    
+        # Rewind body position, if needed. Record current position
+        # for future rewinds in the event of a redirect/retry.
+        body_pos = set_file_position(body, body_pos)
+    
+        try:
+            # Request a connection from the queue.
+            timeout_obj = self._get_timeout(timeout)
+            conn = self._get_conn(timeout=pool_timeout)
+    
+            conn.timeout = timeout_obj.connect_timeout  # type: ignore[assignment]
+    
+            # Is this a closed/new connection that requires CONNECT tunnelling?
+            if self.proxy is not None and http_tunnel_required and conn.is_closed:
+                try:
+                    self._prepare_proxy(conn)
+                except (BaseSSLError, OSError, SocketTimeout) as e:
+                    self._raise_timeout(
+                        err=e, url=self.proxy.url, timeout_value=conn.timeout
+                    )
+                    raise
+    
+            # If we're going to release the connection in ``finally:``, then
+            # the response doesn't need to know about the connection. Otherwise
+            # it will also try to release it and we'll have a double-release
+            # mess.
+            response_conn = conn if not release_conn else None
+    
+            # Make the request on the HTTPConnection object
+>           response = self._make_request(
+                conn,
+                method,
+                url,
+                timeout=timeout_obj,
+                body=body,
+                headers=headers,
+                chunked=chunked,
+                retries=retries,
+                response_conn=response_conn,
+                preload_content=preload_content,
+                decode_content=decode_content,
+                **response_kw,
+            )
+
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:791: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:492: in _make_request
+    raise new_e
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:468: in _make_request
+    self._validate_conn(conn)
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:1097: in _validate_conn
+    conn.connect()
+/usr/local/lib/python3.10/dist-packages/urllib3/connection.py:642: in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+/usr/local/lib/python3.10/dist-packages/urllib3/connection.py:783: in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+/usr/local/lib/python3.10/dist-packages/urllib3/util/ssl_.py:471: in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+/usr/local/lib/python3.10/dist-packages/urllib3/util/ssl_.py:515: in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+/usr/lib/python3.10/ssl.py:513: in wrap_socket
+    return self.sslsocket_class._create(
+/usr/lib/python3.10/ssl.py:1071: in _create
+    self.do_handshake()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <ssl.SSLSocket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6>
+block = False
+
+    @_sslcopydoc
+    def do_handshake(self, block=False):
+        self._check_connected()
+        timeout = self.gettimeout()
+        try:
+            if timeout == 0.0 and block:
+                self.settimeout(None)
+>           self._sslobj.do_handshake()
+E           ConnectionResetError: [Errno 104] Connection reset by peer
+
+/usr/lib/python3.10/ssl.py:1342: ConnectionResetError
+
+During handling of the above exception, another exception occurred:
+
+self = <requests.adapters.HTTPAdapter object at 0x7f03301da260>, request = <PreparedRequest [GET]>
+stream = True, timeout = Timeout(connect=None, read=None, total=None), verify = True, cert = None
+proxies = OrderedDict([('colab_language_server', '/usr/colab/bin/language_service')])
+
+    def send(
+        self, request, stream=False, timeout=None, verify=True, cert=None, proxies=None
+    ):
+        """Sends PreparedRequest object. Returns Response object.
+    
+        :param request: The :class:`PreparedRequest <PreparedRequest>` being sent.
+        :param stream: (optional) Whether to stream the request content.
+        :param timeout: (optional) How long to wait for the server to send
+            data before giving up, as a float, or a :ref:`(connect timeout,
+            read timeout) <timeouts>` tuple.
+        :type timeout: float or tuple or urllib3 Timeout object
+        :param verify: (optional) Either a boolean, in which case it controls whether
+            we verify the server's TLS certificate, or a string, in which case it
+            must be a path to a CA bundle to use
+        :param cert: (optional) Any user-provided SSL certificate to be trusted.
+        :param proxies: (optional) The proxies dictionary to apply to the request.
+        :rtype: requests.Response
+        """
+    
+        try:
+            conn = self.get_connection(request.url, proxies)
+        except LocationValueError as e:
+            raise InvalidURL(e, request=request)
+    
+        self.cert_verify(conn, request.url, verify, cert)
+        url = self.request_url(request, proxies)
+        self.add_headers(
+            request,
+            stream=stream,
+            timeout=timeout,
+            verify=verify,
+            cert=cert,
+            proxies=proxies,
+        )
+    
+        chunked = not (request.body is None or "Content-Length" in request.headers)
+    
+        if isinstance(timeout, tuple):
+            try:
+                connect, read = timeout
+                timeout = TimeoutSauce(connect=connect, read=read)
+            except ValueError:
+                raise ValueError(
+                    f"Invalid timeout {timeout}. Pass a (connect, read) timeout tuple, "
+                    f"or a single float to set both timeouts to the same value."
+                )
+        elif isinstance(timeout, TimeoutSauce):
+            pass
+        else:
+            timeout = TimeoutSauce(connect=timeout, read=timeout)
+    
+        try:
+>           resp = conn.urlopen(
+                method=request.method,
+                url=url,
+                body=request.body,
+                headers=request.headers,
+                redirect=False,
+                assert_same_host=False,
+                preload_content=False,
+                decode_content=False,
+                retries=self.max_retries,
+                timeout=timeout,
+                chunked=chunked,
+            )
+
+/usr/local/lib/python3.10/dist-packages/requests/adapters.py:486: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:845: in urlopen
+    retries = retries.increment(
+/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py:470: in increment
+    raise reraise(type(error), error, _stacktrace)
+/usr/local/lib/python3.10/dist-packages/urllib3/util/util.py:38: in reraise
+    raise value.with_traceback(tb)
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:791: in urlopen
+    response = self._make_request(
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:492: in _make_request
+    raise new_e
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:468: in _make_request
+    self._validate_conn(conn)
+/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py:1097: in _validate_conn
+    conn.connect()
+/usr/local/lib/python3.10/dist-packages/urllib3/connection.py:642: in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+/usr/local/lib/python3.10/dist-packages/urllib3/connection.py:783: in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+/usr/local/lib/python3.10/dist-packages/urllib3/util/ssl_.py:471: in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+/usr/local/lib/python3.10/dist-packages/urllib3/util/ssl_.py:515: in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+/usr/lib/python3.10/ssl.py:513: in wrap_socket
+    return self.sslsocket_class._create(
+/usr/lib/python3.10/ssl.py:1071: in _create
+    self.do_handshake()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <ssl.SSLSocket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6>
+block = False
+
+    @_sslcopydoc
+    def do_handshake(self, block=False):
+        self._check_connected()
+        timeout = self.gettimeout()
+        try:
+            if timeout == 0.0 and block:
+                self.settimeout(None)
+>           self._sslobj.do_handshake()
+E           urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+/usr/lib/python3.10/ssl.py:1342: ProtocolError
+
+During handling of the above exception, another exception occurred:
+
+lang = 'luba-kasai'
+
+    @pytest.mark.parametrize("lang", LASER2_LANGUAGE)
+    def test_validate_language_models_and_tokenize_laser2(lang):
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            print(f"Created temporary directory for {lang}", tmp_dir)
+    
+            downloader = LaserModelDownloader(model_dir=tmp_dir)
+>           downloader.download_laser2()
+
+LASER-fork/laser_encoders/validate_models.py:63: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+LASER-fork/laser_encoders/download_models.py:88: in download_laser2
+    self.download("laser2.cvocab")
+LASER-fork/laser_encoders/download_models.py:60: in download
+    response = requests.get(url, stream=True)
+/usr/local/lib/python3.10/dist-packages/requests/api.py:73: in get
+    return request("get", url, params=params, **kwargs)
+/usr/local/lib/python3.10/dist-packages/requests/api.py:59: in request
+    return session.request(method=method, url=url, **kwargs)
+/usr/local/lib/python3.10/dist-packages/requests/sessions.py:589: in request
+    resp = self.send(prep, **send_kwargs)
+/usr/local/lib/python3.10/dist-packages/requests/sessions.py:703: in send
+    r = adapter.send(request, **kwargs)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <requests.adapters.HTTPAdapter object at 0x7f03301da260>, request = <PreparedRequest [GET]>
+stream = True, timeout = Timeout(connect=None, read=None, total=None), verify = True, cert = None
+proxies = OrderedDict([('colab_language_server', '/usr/colab/bin/language_service')])
+
+    def send(
+        self, request, stream=False, timeout=None, verify=True, cert=None, proxies=None
+    ):
+        """Sends PreparedRequest object. Returns Response object.
+    
+        :param request: The :class:`PreparedRequest <PreparedRequest>` being sent.
+        :param stream: (optional) Whether to stream the request content.
+        :param timeout: (optional) How long to wait for the server to send
+            data before giving up, as a float, or a :ref:`(connect timeout,
+            read timeout) <timeouts>` tuple.
+        :type timeout: float or tuple or urllib3 Timeout object
+        :param verify: (optional) Either a boolean, in which case it controls whether
+            we verify the server's TLS certificate, or a string, in which case it
+            must be a path to a CA bundle to use
+        :param cert: (optional) Any user-provided SSL certificate to be trusted.
+        :param proxies: (optional) The proxies dictionary to apply to the request.
+        :rtype: requests.Response
+        """
+    
+        try:
+            conn = self.get_connection(request.url, proxies)
+        except LocationValueError as e:
+            raise InvalidURL(e, request=request)
+    
+        self.cert_verify(conn, request.url, verify, cert)
+        url = self.request_url(request, proxies)
+        self.add_headers(
+            request,
+            stream=stream,
+            timeout=timeout,
+            verify=verify,
+            cert=cert,
+            proxies=proxies,
+        )
+    
+        chunked = not (request.body is None or "Content-Length" in request.headers)
+    
+        if isinstance(timeout, tuple):
+            try:
+                connect, read = timeout
+                timeout = TimeoutSauce(connect=connect, read=read)
+            except ValueError:
+                raise ValueError(
+                    f"Invalid timeout {timeout}. Pass a (connect, read) timeout tuple, "
+                    f"or a single float to set both timeouts to the same value."
+                )
+        elif isinstance(timeout, TimeoutSauce):
+            pass
+        else:
+            timeout = TimeoutSauce(connect=timeout, read=timeout)
+    
+        try:
+            resp = conn.urlopen(
+                method=request.method,
+                url=url,
+                body=request.body,
+                headers=request.headers,
+                redirect=False,
+                assert_same_host=False,
+                preload_content=False,
+                decode_content=False,
+                retries=self.max_retries,
+                timeout=timeout,
+                chunked=chunked,
+            )
+    
+        except (ProtocolError, OSError) as err:
+>           raise ConnectionError(err, request=request)
+E           requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+/usr/local/lib/python3.10/dist-packages/requests/adapters.py:501: ConnectionError
+--------------------------------------- Captured stdout call ---------------------------------------
+Created temporary directory for luba-kasai /tmp/tmp5wzpd7sn
+--------------------------------------- Captured stderr call ---------------------------------------
+
+  0%|          | 0.00/179M [00:00<?, ?B/s]
+  2%|▏         | 3.70M/179M [00:00<00:04, 37.0MB/s]
+  5%|▍         | 8.79M/179M [00:00<00:03, 45.2MB/s]
+  8%|▊         | 14.4M/179M [00:00<00:03, 50.1MB/s]
+ 11%|█         | 19.8M/179M [00:00<00:03, 51.8MB/s]
+ 14%|█▍        | 25.4M/179M [00:00<00:02, 53.1MB/s]
+ 17%|█▋        | 30.9M/179M [00:00<00:02, 54.0MB/s]
+ 20%|██        | 36.3M/179M [00:00<00:02, 53.1MB/s]
+ 23%|██▎       | 41.9M/179M [00:00<00:02, 53.9MB/s]
+ 26%|██▋       | 47.5M/179M [00:00<00:02, 54.6MB/s]
+ 30%|██▉       | 53.4M/179M [00:01<00:02, 55.9MB/s]
+ 35%|███▍      | 62.8M/179M [00:01<00:01, 67.4MB/s]
+ 40%|███▉      | 71.7M/179M [00:01<00:01, 74.0MB/s]
+ 45%|████▌     | 81.3M/179M [00:01<00:01, 80.8MB/s]
+ 51%|█████     | 91.0M/179M [00:01<00:01, 85.5MB/s]
+ 56%|█████▋    | 101M/179M [00:01<00:00, 90.0MB/s] 
+ 62%|██████▏   | 111M/179M [00:01<00:00, 94.1MB/s]
+ 68%|██████▊   | 121M/179M [00:01<00:00, 96.1MB/s]
+ 73%|███████▎  | 131M/179M [00:01<00:00, 89.5MB/s]
+ 78%|███████▊  | 141M/179M [00:01<00:00, 91.7MB/s]
+ 84%|████████▎ | 150M/179M [00:02<00:00, 91.3MB/s]
+ 89%|████████▊ | 159M/179M [00:02<00:00, 89.2MB/s]
+ 94%|█████████▎| 168M/179M [00:02<00:00, 86.0MB/s]
+ 99%|█████████▊| 177M/179M [00:02<00:00, 86.1MB/s]
+100%|██████████| 179M/179M [00:02<00:00, 75.4MB/s]
+
+  0%|          | 0.00/1.01M [00:00<?, ?B/s]
+100%|██████████| 1.01M/1.01M [00:00<00:00, 17.4MB/s]
+===================================== short test summary info ======================================
+FAILED LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kashmiri]
+FAILED LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[kas]
+FAILED LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[central kanuri]
+FAILED LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[knc]
+FAILED LASER-fork/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[luba-kasai]
+============================ 5 failed, 586 passed in 2079.97s (0:34:39) ============================
