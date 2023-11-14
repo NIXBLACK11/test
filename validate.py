@@ -94,17 +94,18 @@ CACHE_DIR = "/home/siddharth/Desktop/programs/MetaResearch/LASER/models"  # Chan
 @pytest.mark.parametrize("lang", LASER3_LANGUAGE)
 def test_validate_language_models_and_tokenize_mock_laser3(lang):
     downloader = MockLaserModelDownloader(model_dir=CACHE_DIR)
+
     try:
         downloader.download_laser3(lang)
-
-        encoder = initialize_encoder(lang, model_dir=CACHE_DIR)
-        tokenizer = initialize_tokenizer(lang, model_dir=CACHE_DIR)
-
-        tokenized = tokenizer.tokenize("This is a sample sentence.")
-
-        print(f"{lang} model validated successfully")
     except FileNotFoundError as e:
         raise pytest.error(str(e))
+
+    encoder = initialize_encoder(lang, model_dir=CACHE_DIR)
+    tokenizer = initialize_tokenizer(lang, model_dir=CACHE_DIR)
+
+    tokenized = tokenizer.tokenize("This is a sample sentence.")
+
+    print(f"{lang} model validated successfully")
 
 
 # This uses the mock downloader
@@ -112,13 +113,16 @@ def test_validate_language_models_and_tokenize_mock_laser3(lang):
 @pytest.mark.parametrize("lang", LASER2_LANGUAGE)
 def test_validate_language_models_and_tokenize_mock_laser2(lang):
     downloader = MockLaserModelDownloader(model_dir=CACHE_DIR)
+
     try:
         downloader.download_laser2()
-        encoder = initialize_encoder(lang, model_dir=CACHE_DIR)
-        tokenizer = initialize_tokenizer(lang, model_dir=CACHE_DIR)
-
-        tokenized = tokenizer.tokenize("This is a sample sentence.")
-
-        print(f"{lang} model validated successfully")
     except FileNotFoundError as e:
         raise pytest.error(str(e))
+    
+    encoder = initialize_encoder(lang, model_dir=CACHE_DIR)
+    tokenizer = initialize_tokenizer(lang, model_dir=CACHE_DIR)
+
+    tokenized = tokenizer.tokenize("This is a sample sentence.")
+
+    print(f"{lang} model validated successfully")
+    
