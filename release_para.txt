@@ -17,8 +17,20 @@ Explore LASER Encoder: GitHub Repository
 Or---
 
 
-LASER Encoder: Pioneering Multilingual Representation Learning for Global Inclusivity
+LASER Encoder: Simplifying Language Learning for Everyone
 
-Embark on a new era of multilingual representation learning with the unveiling of the LASER Encoder – a cutting-edge toolkit meticulously crafted by [contributers] from Meta AI Research. Focused on overcoming the hurdles associated with scaling language inclusivity, LASER Encoder marks a departure from conventional one-size-fits-all multilingual models. Instead, the spotlight is on cultivating distinct language-specific representations, ensuring harmonious coexistence within a shared representational space. The revolutionary teacher-student training methodology empowers encoders to seamlessly navigate the diverse linguistic landscape, expediting the assimilation of new languages. This progressive approach significantly surpasses the performance of the original LASER encoder, particularly enhancing capabilities for 12 languages that were previously challenging. Going beyond mainstream languages, LASER Encoder extends its reach to encompass 50 African languages, a substantial number absent from other models. Through the meticulous training of sentence encoders, bitext mining against an extensive English dataset, and validation via Neural Machine Translation (NMT) systems, LASER Encoder showcases its prowess in addressing the intricacies of low-resource languages. Leveraging the multilingual similarity search error rate and the FLORES evaluation benchmark, LASER Encoder stands as a testament to its robust evaluation methodology. Bridging gaps in language processing tasks and championing inclusivity, LASER Encoder emerges as a transformative force in the realm of multilingual representation learning. Immerse yourself in the future of language processing with LASER Encoder – where adaptability meets unparalleled performance.
+Get ready for the LASER Encoder, a user-friendly language tool set to launch on PyPI. 
+This package is built on the LASER repository, offering an accessible way for individuals to engage with and understand various languages. 
+Whether you're a language enthusiast or just getting started, LASER Encoder on PyPI provides a convenient and straightforward means to explore the world of multilingual representation learning.
+Keep an eye out for its release, and embark on your language-learning journey with LASER Encoder.
 
-Discover LASER Encoder: GitHub Repository
+Explore LASER Encoder: GitHub Repository
+
+OR---
+
+Get ready for the LASER Encoder, a user-friendly language tool launching on PyPI.
+Developed by [cONTRIBUTERS] at Meta AI Research, this package simplifies multilingual learning.
+Unlike one-size-fits-all models, LASER Encoder focuses on training multiple language-specific representations, ensuring compatibility across languages. 
+Its innovative teacher-student training facilitates rapid learning of new languages and significantly outperforms its predecessor.
+Covering 50 African languages and excelling in handling low-resource languages, LASER Encoder establishes itself as a robust tool for multilingual representation learning.
+With applications in natural language processing and a commitment to inclusivity, LASER Encoder is set to redefine the multilingual learning landscape. Stay tuned for its PyPI release and explore the LASER Encoder GitHub Repository for more information.
