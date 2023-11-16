@@ -206,3 +206,5 @@ LANGUAGE_NAMES = {
     "diq_Latn": ['southern zaza', 'diq', 'diq_Latn'],
     "sat_Beng": ['santali', 'sat', 'sat_Beng'],
 }
+
+# Number of items: 206
