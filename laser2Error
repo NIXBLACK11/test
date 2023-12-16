@@ -1,4 +1,4 @@
-======================================= test session starts ========================================
+ ========================================
 platform linux -- Python 3.10.12, pytest-7.4.0, pluggy-1.3.0 -- /usr/bin/python3
 cachedir: .pytest_cache
 rootdir: /content/LASER
