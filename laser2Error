@@ -11,7 +11,7 @@ LASER/laser_encoders/validate_models.py::test_validate_language_models_and_token
 LASER/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[zho_Hans] FAILED [ 75%]
 LASER/laser_encoders/validate_models.py::test_validate_language_models_and_tokenize_laser2[zho_Hant] FAILED [100%]
 
-============================================= FAILURES =============================================
+ FAILURES 
 ____________________ test_validate_language_models_and_tokenize_laser2[chinese] ____________________
 
 self = <laser_encoders.download_models.LaserModelDownloader object at 0x7f78b4bd9090>
