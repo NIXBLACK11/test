@@ -1,6 +1,7 @@
 from normalize import MosesPunctNormalizer
 import sys
 
+#Enter the file name to test
 def test(fileName):
     a = MosesPunctNormalizer(pearl_parity = True)
     file_path = fileName
