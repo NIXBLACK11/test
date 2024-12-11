@@ -1,0 +1,42 @@
+{
+  "context": {
+    "apiVersion": "2.0.18",
+    "slot": 346214771
+  },
+  "value": {
+    "accounts": null,
+    "err": {
+      "InstructionError": [
+        1,
+        {
+          "Custom": 6004
+        }
+      ]
+    },
+    "innerInstructions": null,
+    "logs": [
+      "Program ComputeBudget111111111111111111111111111111 invoke [1]",
+      "Program ComputeBudget111111111111111111111111111111 success",
+      "Program 8E4wJjF6aCoyBo8EgvdPxzANw5fzhUQrnekZoQGHvFZs invoke [1]",
+      "Program log: Instruction: QuoteSend",
+      "Program 76y77prsiCMvXMjuoZ5VRrhG5qYBrUMYTE5WgHqgjEn6 invoke [2]",
+      "Program log: Instruction: Quote",
+      "Program 7a4WjyR8VZ7yZz5XJAKm39BUGn5iT9CKcv2pmG9tdXVH invoke [3]",
+      "Program log: Instruction: Quote",
+      "Program 6doghB248px58JSSwG4qejQ46kFMW4AMj7vzJnWZHNZn invoke [4]",
+      "Program log: Instruction: QuoteExecutor",
+      "Program log: AnchorError thrown in programs/executor/src/instructions/quote.rs:77. Error Code: ZeroLzReceiveGasProvided. Error Number: 6004. Error Message: ZeroLzReceiveGasProvided.",
+      "Program 6doghB248px58JSSwG4qejQ46kFMW4AMj7vzJnWZHNZn consumed 10756 of 926723 compute units",
+      "Program 6doghB248px58JSSwG4qejQ46kFMW4AMj7vzJnWZHNZn failed: custom program error: 0x1774",
+      "Program 7a4WjyR8VZ7yZz5XJAKm39BUGn5iT9CKcv2pmG9tdXVH consumed 28262 of 944229 compute units",
+      "Program 7a4WjyR8VZ7yZz5XJAKm39BUGn5iT9CKcv2pmG9tdXVH failed: custom program error: 0x1774",
+      "Program 76y77prsiCMvXMjuoZ5VRrhG5qYBrUMYTE5WgHqgjEn6 consumed 55692 of 971659 compute units",
+      "Program 76y77prsiCMvXMjuoZ5VRrhG5qYBrUMYTE5WgHqgjEn6 failed: custom program error: 0x1774",
+      "Program 8E4wJjF6aCoyBo8EgvdPxzANw5fzhUQrnekZoQGHvFZs consumed 83883 of 999850 compute units",
+      "Program 8E4wJjF6aCoyBo8EgvdPxzANw5fzhUQrnekZoQGHvFZs failed: custom program error: 0x1774"
+    ],
+    "replacementBlockhash": null,
+    "returnData": null,
+    "unitsConsumed": 84033
+  }
+}
