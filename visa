@@ -1,0 +1,57 @@
+java
+https://chatgpt.com/share/675aa95d-8af8-800b-9450-2967f9df68bc
+- [ ] https://chatgpt.com/share/675aa95d-8af8-800b-9450-2967f9df68bc
+https://www.geeksforgeeks.org/java-interview-questions/
+
+dsa
+https://leetcode.com/problems/implement-queue-using-stacks/submissions/1477180880/
+https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+### Summary of Access Modifiers:
+
+| Modifier       | Same Class | Same Package | Subclass (Different Package) | Other Packages |
+| -------------- | ---------- | ------------ | ---------------------------- | -------------- |
+| `public`       | ✅          | ✅            | ✅                            | ✅              |
+| `protected`    | ✅          | ✅            | ✅                            | ❌              |
+| Default (none) | ✅          | ✅            | ❌                            | ❌              |
+| `private`      | ✅          | ❌            | ❌                            | ❌              |
+DBMS
+https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions/
+https://chatgpt.com/share/675db5e0-907c-800b-a8a7-317e56dff932
+
+OS
+https://chatgpt.com/share/675dc969-517c-800b-b348-e5690ae82d96
+https://www.javatpoint.com/osi-model
+PROJECTS
+https://chatgpt.com/share/6761b85b-3188-8002-8a08-762ba58ea08a
+
+
+
+|**Check Name**|**Description**|**Example Function**|
+|---|---|---|
+|`"WebsiteUnreachable"`|Checks if the website is reachable (e.g., via a ping or HTTP request).|`isWebsiteUnreachable(url)`|
+|`"SSLCertificateExpiring"`|Checks if the website's SSL certificate is nearing expiration.|`isSSLCertificateExpiring(url)`|
+|`"ServerResponseTimeHigh"`|Checks if the server's response time is too high.|`isServerResponseTimeHigh(url)`|
+|`"BrokenLinks"`|Checks if the website contains broken links.|`hasBrokenLinks(url)`|
+|`"InternalServerError"`|Checks if the server is returning a 500 Internal Server Error.|`isInternalServerError(url)`|
+|`"UnauthorizedAccess"`|Checks if unauthorized access attempts are detected.|`hasUnauthorizedAccess(url)`|
+|`"DNSResolutionIssue"`|Checks if there is a DNS resolution issue for the URL.|`isDNSResolutionIssue(url)`|
+|`"ServiceUnavailable"`|Checks if the server is returning a 503 Service Unavailable error.|`isServiceUnavailable(url)`|
+
+| **Command Type** | **SQL Command** | **Description**                        | **Example**                                                     |
+| ---------------- | --------------- | -------------------------------------- | --------------------------------------------------------------- |
+| **DDL**          | CREATE          | Create a new table, database, etc.     | `CREATE TABLE Employees (ID INT, Name VARCHAR(100));`           |
+|                  | ALTER           | Modify an existing table structure     | `ALTER TABLE Employees ADD Email VARCHAR(100);`                 |
+|                  | DROP            | Delete a table, view, etc.             | `DROP TABLE Employees;`                                         |
+|                  | TRUNCATE        | Remove all records from a table        | `TRUNCATE TABLE Employees;`                                     |
+| **DML**          | INSERT          | Insert data into a table               | `INSERT INTO Employees (ID, Name, Age) VALUES (1, 'John', 30);` |
+|                  | SELECT          | Retrieve data from a table             | `SELECT * FROM Employees;`                                      |
+|                  | UPDATE          | Modify existing records in a table     | `UPDATE Employees SET Age = 31 WHERE ID = 1;`                   |
+|                  | DELETE          | Delete data from a table               | `DELETE FROM Employees WHERE ID = 1;`                           |
+| **DCL**          | GRANT           | Give privileges to a user              | `GRANT SELECT ON Employees TO User1;`                           |
+|                  | REVOKE          | Remove privileges from a user          | `REVOKE SELECT ON Employees FROM User1;`                        |
+| **TCL**          | COMMIT          | Save the transaction to the database   | `COMMIT;`                                                       |
+|                  | ROLLBACK        | Undo changes made during a transaction | `ROLLBACK;`                                                     |
+|                  | SAVEPOINT       | Set a save point in a transaction      | `SAVEPOINT SavePoint1;`                                         |
+|                  | SET TRANSACTION | Configure transaction properties       | `SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;`                 |
+| **DQL**          | SELECT          | Retrieve data (part of DML)            | `SELECT Name, Age FROM Employees WHERE Department = 'Sales';`   |
