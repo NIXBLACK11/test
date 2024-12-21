@@ -1,0 +1,40 @@
+Error: call revert exception [ See: https://links.ethers.org/v5-errors-CALL_EXCEPTION ] (method="quoteSend((uint32,bytes32,uint256,uint256,bytes,bytes,bytes),bool)", data="0x71c4efed000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016a1924c00", errorArgs=[{"type":"BigNumber","hex":"0x00"},{"type":"BigNumber","hex":"0x16a1924c00"}], errorName="SlippageExceeded", errorSignature="SlippageExceeded(uint256,uint256)", reason=null, code=CALL_EXCEPTION, version=abi/5.7.0)
+    at Logger.makeError (/home/siddharth/Desktop/programs/layerZero/21-12-2024/my-lz-oapp/node_modules/@ethersproject/logger/src.ts/index.ts:269:28)
+    at Logger.throwError (/home/siddharth/Desktop/programs/layerZero/21-12-2024/my-lz-oapp/node_modules/@ethersproject/logger/src.ts/index.ts:281:20)
+    at Interface.decodeFunctionResult (/home/siddharth/Desktop/programs/layerZero/21-12-2024/my-lz-oapp/node_modules/@ethersproject/abi/src.ts/interface.ts:427:23)
+    at Object.<anonymous> (/home/siddharth/Desktop/programs/layerZero/21-12-2024/my-lz-oapp/node_modules/@ethersproject/contracts/src.ts/index.ts:400:44)
+    at step (/home/siddharth/Desktop/programs/layerZero/21-12-2024/my-lz-oapp/node_modules/@ethersproject/contracts/lib/index.js:48:23)
+    at Object.next (/home/siddharth/Desktop/programs/layerZero/21-12-2024/my-lz-oapp/node_modules/@ethersproject/contracts/lib/index.js:29:53)
+    at fulfilled (/home/siddharth/Desktop/programs/layerZero/21-12-2024/my-lz-oapp/node_modules/@ethersproject/contracts/lib/index.js:20:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  reason: null,
+  code: 'CALL_EXCEPTION',
+  method: 'quoteSend((uint32,bytes32,uint256,uint256,bytes,bytes,bytes),bool)',
+  data: '0x71c4efed000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016a1924c00',
+  errorArgs: [
+    BigNumber { value: "0" },
+    BigNumber { value: "97200000000" },
+    amountLD: BigNumber { value: "0" },
+    minAmountLD: BigNumber { value: "97200000000" }
+  ],
+  errorName: 'SlippageExceeded',
+  errorSignature: 'SlippageExceeded(uint256,uint256)',
+  address: '0xd9dD7B10df5F26dF75C11bF745c8c781a2deE821',
+  args: [
+    {
+      dstEid: 40168,
+      to: '0x9a8be9db812ef2954dcc285e65dc5568d5d60b9cd437940227737dd5d825c731',
+      amountLD: '108000000000',
+      minAmountLD: '97200000000',
+      extraOptions: '0x',
+      composeMsg: '0x',
+      oftCmd: '0x'
+    },
+    false
+  ],
+  transaction: {
+    data: '0x3b6f743b000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000009ce89a8be9db812ef2954dcc285e65dc5568d5d60b9cd437940227737dd5d825c73100000000000000000000000000000000000000000000000000000019254d380000000000000000000000000000000000000000000000000000000016a1924c0000000000000000000000000000000000000000000000000000000000000000e000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000120000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+    to: '0xd9dD7B10df5F26dF75C11bF745c8c781a2deE821',
+    from: '0x8ffcF7E7109416F2c34b6e226556a58Fa68BD779'
+  }
+}
