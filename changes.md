@@ -1,7 +1,5 @@
 ### ✅ **Requirements for Returning a User Object in the Leaderboard Query**  
 
-Based on everything we debugged, here are all the key conditions that must be met for a user object to be returned:  
-
 ---
 
 ### **1️⃣ The User Must Exist in the `USERS` Table**  
@@ -109,4 +107,3 @@ Based on everything we debugged, here are all the key conditions that must be me
 ✅ The user has a valid `FAVORITE_AVATAR_ID`.  
 ✅ The favorite avatar exists in `BACKEND.AVATARS`.  
 
-🚀 Run through these checks, and you should always get the expected user object!
